@@ -1,1 +1,1 @@
-# SLE712---Bioinformatics-And-Molecular-Biology-Tec.-Assesment-3-part-2ni
+# Assessment-3-part-2
