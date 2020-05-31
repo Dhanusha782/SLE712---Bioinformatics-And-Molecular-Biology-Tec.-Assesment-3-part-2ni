@@ -1,16 +1,25 @@
 # Assessment-3-part-2
 ```{r,chunck1,echo=True}
-● This assignment consists of two bioinformatics exercises.
-● You may work individually or in groups of two or three, so long as there is evidence of contribution to
-the code repository by all members.
-● Your submission will consist of a written report AND one GitHub repository.
-● The report will be submitted as one PDF document to the CloudDeakin dropbox. Submitting in a
-different format will result in a 5% deduction. There is a maximum word count of 1000 words.
-● The report should include a cover sheet with names, student numbers, unit code, date of submission
-and assignment title
-● If you describe ideas and works that are not your own, you must reference your sources with in-text
-citations and a list of references according to the Harvard style:
-https://www.deakin.edu.au/students/studying/study-support/referencing/harvard
-● Any further questions please contact me by discussion board or email: m.ziemann@deakin.edu.au
-● This assignment is worth 20% of your total grade for the unit
+Determine the limits of BLAST
+```
+#Purpose
+```{r,chunck1,echo=True}
+● Download and unzip files
+● Perform simple manipulations and analyses with sequence data
+● Use a provided function to incorporate point mutations into a sequence
+● Use provided functions to perform a BLAST search and interpret results
+```
+#contributors
+```{r,chunck1,echo=True}
+Yasodha Suharshi Jayawardena & Dhanusha Weerawardana
+```
+
+#Instolation
+```{r,chunck1,echo=True}
+Rstudio Version 1.2.1335 and R version 3.6.3
+```
+
+#License
+```{r,chunck1,echo=True}
+GNU General Public License v3.0
 ```
